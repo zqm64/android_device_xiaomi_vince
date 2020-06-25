@@ -24,4 +24,8 @@
     <!-- Whether to notify fingerprint client of successful cancelled authentication
          (needed for some older vendor fingerprint HAL implementations) -->
     <bool name="config_fingerprintPostResetRunnableForAllClients">true</bool>
+
+   <!-- Whether a software navigation bar should be shown. NOTE: in the future this may be
+        autodetected from the Configuration. -->
+   <bool name="config_showNavigationBar">true</bool>
 </resources>
