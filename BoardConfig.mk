@@ -31,7 +31,7 @@ endif
 
 # Kernel
 TARGET_KERNEL_CONFIG := ulysse_defconfig
-TARGET_KERNEL_SOURCE := kernel/xiaomi/ulysse
+TARGET_KERNEL_SOURCE := kernel/xiaomi/ulysse-$(TARGET_KERNEL_VERSION)
 
 # Partitions
 BOARD_VENDORIMAGE_FILE_SYSTEM_TYPE := ext4
