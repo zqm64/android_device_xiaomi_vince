@@ -84,10 +84,7 @@ PRODUCT_COPY_FILES += \
 
 # Shims
 PRODUCT_PACKAGES += \
-    libandroid_shim \
-    libbinder_shim \
-    libshim_camera \
-    libwui
+    libbinder_shim
 
 # VNDK
 PRODUCT_PACKAGES += \

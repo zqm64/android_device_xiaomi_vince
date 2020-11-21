@@ -1,9 +1,7 @@
 EXTRA_VENDOR_LIBRARIES := \
     libpowermanager
 
-# ulysse
+# vince
 EXTRA_VENDOR_LIBRARIES += \
     libcutils \
-    libgui \
-    libprocessgroup \
     libstdc++
