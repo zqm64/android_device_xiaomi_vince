@@ -26,8 +26,8 @@ PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += \
     $(LOCAL_PATH)/overlay-lineage/lineage-sdk \
     $(LOCAL_PATH)/overlay/packages/apps/Snap
 
-# Inherit from msm8937-common
-$(call inherit-product, device/xiaomi/msm8937-common/msm8937.mk)
+# Inherit from msm8953-common
+$(call inherit-product, device/xiaomi/msm8953-common/msm8953.mk)
 
 # Permissions
 PRODUCT_COPY_FILES += \
@@ -41,7 +41,7 @@ PRODUCT_COPY_FILES += \
 
 # Camera
 PRODUCT_PACKAGES += \
-    camera.msm8937 \
+    camera.msm8953 \
     libmm-qcamera
 
 # ConsumerIr
