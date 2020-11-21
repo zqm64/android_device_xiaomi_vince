@@ -1,3 +1,30 @@
+# Audio ACDBs
+vendor/etc/acdbdata/adsp_avs_config.acdb|ac0616af3b2d4f070c0e54c18126a877e528621b
+vendor/etc/acdbdata/MTP/msm8953-tasha-snd-card/MTP_WCD9335_Bluetooth_cal.acdb|53bdf9cca8a562cf19f4e197ca5434fe33152187
+vendor/etc/acdbdata/MTP/msm8953-tasha-snd-card/MTP_WCD9335_General_cal.acdb|e2740bc5efc17f1cee7302afa605ff1fde09a833
+vendor/etc/acdbdata/MTP/msm8953-tasha-snd-card/MTP_WCD9335_Global_cal.acdb|61faa3e8361e3684af69eb67467800c2e806ac27
+vendor/etc/acdbdata/MTP/msm8953-tasha-snd-card/MTP_WCD9335_Handset_cal.acdb|b75c949f3cb16e8090bcb406dffbbb9cbd7d3e4f
+vendor/etc/acdbdata/MTP/msm8953-tasha-snd-card/MTP_WCD9335_Hdmi_cal.acdb|c2fe203a7d715196b5fe7c527d7a829282f4d551
+vendor/etc/acdbdata/MTP/msm8953-tasha-snd-card/MTP_WCD9335_Headset_cal.acdb|ef2f30d17490b0f369b0accbdfa9c35acb310fe9
+vendor/etc/acdbdata/MTP/msm8953-tasha-snd-card/MTP_WCD9335_Speaker_cal.acdb|467092018b681d00a5e30de2b75f84a83e189ded
+vendor/etc/acdbdata/MTP/msm8953-tasha-snd-card/MTP_WCD9335_workspaceFile.qwsp|e32e92533d7ea875540ba7f307c4860d343793cc
+vendor/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb|ba7ede78c818ee5e597b14d3f0ef60af6731aa4e
+vendor/etc/acdbdata/MTP/MTP_General_cal.acdb|3e73d98568e523f471a86d301f4bb0b345246de0
+vendor/etc/acdbdata/MTP/MTP_Global_cal.acdb|b9974ab5dfba31a8e27a26c64e19e923248133dc
+vendor/etc/acdbdata/MTP/MTP_Handset_cal.acdb|3cdebf51d8ab88fd0fa7b534f9706d6981e5e1dc
+vendor/etc/acdbdata/MTP/MTP_Hdmi_cal.acdb|e6bf45c31fd29bcc28fd066cb97895baaf4a7523
+vendor/etc/acdbdata/MTP/MTP_Headset_cal.acdb|6665fea00fce6679500928c68307e2851d2733b3
+vendor/etc/acdbdata/MTP/MTP_Speaker_cal.acdb|92e0e9ca8ce9ff2caaad688633ccaf0f497cd7a9
+vendor/etc/acdbdata/MTP/MTP_workspaceFile.qwsp|0a52a721417359877e07736849b9324ad65c0535
+vendor/etc/acdbdata/QRD/QRD_Bluetooth_cal.acdb|125334957d26dedf34cc0a98a176d30d16b2fe6c
+vendor/etc/acdbdata/QRD/QRD_General_cal.acdb|de1e189edc138c85906c86879ba631f8c048c599
+vendor/etc/acdbdata/QRD/QRD_Global_cal.acdb|096cc6e88b1aac608256fe82d287bbf3e66e8727
+vendor/etc/acdbdata/QRD/QRD_Handset_cal.acdb|074251dc20c995698c29a9f03f1788dc23afbc03
+vendor/etc/acdbdata/QRD/QRD_Hdmi_cal.acdb|562f7649d2d0d11b284c072a0270f736171b2552
+vendor/etc/acdbdata/QRD/QRD_Headset_cal.acdb|438f48969ac53b69828288a7a06aef8ccdebea70
+vendor/etc/acdbdata/QRD/QRD_Speaker_cal.acdb|70d3cb7cc9ee7575e7e11e364c2fc6652ccd0e7a
+vendor/etc/acdbdata/QRD/QRD_workspaceFile.qwsp|af0df6336d137d870c510562f91b937c39970e71
+
 # Audio firmware - from vince
 etc/firmware/tas2557_uCDSP.bin:vendor/firmware/tas2557_uCDSP.bin
 
